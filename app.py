@@ -29,7 +29,7 @@ carotid_artery_model = load_model(f'{working_dir}/saved_models/carotid_artery_mo
 
 # sidebar for navigation
 with st.sidebar:
-    selected = option_menu('Unified Disease Prediction System',
+    selected = option_menu('Smart Disease Detection Hub',
 
                            ['Carotid Artery Diagnosis','Diabetes Prediction',
                             'Heart Disease Prediction',
@@ -268,7 +268,7 @@ if selected == "Carotid Artery Diagnosis":
         # Load and resize the image to a more manageable size
         image = Image.open(uploaded_file)
         image = image.resize((800, 600))  # Resize to a suitable size for display
-        st.image(image, caption="Uploaded Image", use_container_width=True)
+        st.image(image, caption="Uploaded Image")
 
         # Button for prediction
         if st.button("Analyze Carotid Artery"):
@@ -352,15 +352,15 @@ if selected == "Carotid Artery Diagnosis":
 
             with col1:
                 st.subheader("Original Ultrasound Image ")
-                st.image(image, caption="Original Ultrasound Image", use_container_width=True)
+                st.image(image, caption="Original Ultrasound Image")
             
             with col2:
                 st.subheader("Predicted Mask with Boundary")
-                st.image(overlay_image, caption="Predicted Mask with Boundary", use_container_width=True)
+                st.image(overlay_image, caption="Predicted Mask with Boundary")
             
             with col3:
                 st.subheader("Extracted Segmented Region")
-                st.image(segmented_image, caption="Segmented Region", use_container_width=True)
+                st.image(segmented_image, caption="Segmented Region")
 
             st.success("Carotid Artery Analysis Completed")
 
