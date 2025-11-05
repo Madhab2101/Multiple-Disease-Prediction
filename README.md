@@ -83,7 +83,7 @@ The images below reference the files stored in `assest/screenshot/`. Make sure t
 ### Heart Disease Prediction
 
 * Input
-
+  
   ![Heart Prediction](assest/screenshot/Heart_Disease_Prediction.png)
 * Result
 
@@ -92,7 +92,7 @@ The images below reference the files stored in `assest/screenshot/`. Make sure t
 ### Parkinson's Disease Prediction
 
 * Input
-
+  
   ![Parkinson Prediction](assest/screenshot/Parkinson_Disease_Prediction.png)
 * Result
 
@@ -194,7 +194,7 @@ This application is **for research and educational purposes only.** It is **not*
 
 * Madhab Patwari — [GitHub @Madhab2101](https://github.com/Madhab2101)
 * Divyam Saini — [GitHub @divyam1209](https://github.com/divyam1209)
-* Krish Makadia — [GitHub @krishmakadia](https://github.com/krishmakadia)
+* Krsih Makadia - [GitHub krishmakadia](https://github.com/krishmakadia)
 ---
 
 ## 🛣️ Future Improvements
