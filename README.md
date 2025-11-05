@@ -63,8 +63,10 @@ The images below reference the files stored in `assest/screenshot/`. Make sure t
 ### Carotid Artery Diagnosis
 
 * Input / Overview
+
   ![Carotid Artery Diagnosis](assest/screenshot/Carotid_Artery_Diagnosis.png)
 * Result examples
+
   ![Carotid Result 1](assest/screenshot/Carotid_Artery_Diagnosis_Result1.png)
   ![Carotid Result 2](assest/screenshot/Carotid_Artery_Diagnosis_Result2.png)
   ![Carotid Result 3](assest/screenshot/Carotid_Artery_Diagnosis_Result3.png)
@@ -72,22 +74,28 @@ The images below reference the files stored in `assest/screenshot/`. Make sure t
 ### Diabetes Prediction
 
 * Input
+
   ![Diabetes Prediction](assest/screenshot/Diabetes_Prediction.png)
 * Result
+
   ![Diabetes Result](assest/screenshot/Diabetes_Prediction_Result.png)
 
 ### Heart Disease Prediction
 
 * Input
+
   ![Heart Prediction](assest/screenshot/Heart_Disease_Prediction.png)
 * Result
+
   ![Heart Result](assest/screenshot/Heart_Disease_Prediction_Result.png)
 
 ### Parkinson's Disease Prediction
 
 * Input
+
   ![Parkinson Prediction](assest/screenshot/Parkinson_Disease_Prediction.png)
 * Result
+
   ![Parkinson Result](assest/screenshot/Parkinson_Disease_Prediction_Result.png)
 
 > If you have more result images (confusion matrices, ROC curves, training loss/accuracy graphs), consider adding them to `assest/screenshot/metrics/` and linking them here with captions indicating the model and dataset used.
@@ -186,7 +194,7 @@ This application is **for research and educational purposes only.** It is **not*
 
 * Madhab Patwari — [GitHub @Madhab2101](https://github.com/Madhab2101)
 * Divyam Saini — [GitHub @divyam1209](https://github.com/divyam1209)
-
+* Krish Makadia — [GitHub @krishmakadia](https://github.com/krishmakadia)
 ---
 
 ## 🛣️ Future Improvements
