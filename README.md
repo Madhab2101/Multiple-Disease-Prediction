@@ -11,7 +11,7 @@ Step 2: Activate the Virtual Environment
 .\myenv\Scripts\activate
 
 Step 3: Install Required Packages
-pip install numpy scikit-learn streamlit streamlit-option-menu opencv-python tensorflow==2.17.1 keras==3.5.0
+pip install numpy scikit-learn streamlit streamlit-option-menu opencv-python tensorflow keras 
 
 Step 4: Run The app
 streamlit run "app.py"
